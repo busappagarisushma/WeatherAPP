@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.client.RestTemplate;
 
-import com.example.weather_app.model.WeatherResponse;
+import com.example.weather.model.WeatherResponse;
 
 @Controller
 public class WeatherController {
